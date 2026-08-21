@@ -1,7 +1,7 @@
 # AWS-LOAD-BALANCER
 
-## NAME: Austin Aro A
-## REG NO: 212224040038
+#### NAME: Austin Aro A
+#### REG NO: 212224040038
 
 ## AIM
 To use Elastic Load Balancing (ELB) and Auto Scaling services to load balance and automatically scale an AWS infrastructure.
